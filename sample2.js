@@ -5,3 +5,4 @@ function addition(a, b)
 }
 
 addition(5,6);
+addition(12,9);
