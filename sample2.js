@@ -1,6 +1,6 @@
 function addition(a, b)
 {
-  c = a+b;
+  var c = a+b;
   console.console.log(c);
 }
 
